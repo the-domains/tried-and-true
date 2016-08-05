@@ -1,13 +1,13 @@
 ---
-description: Macro and reflective together!
-dateModified: '2016-08-05T18:24:42.369Z'
-datePublished: '2016-08-05T18:25:30.071Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-05T18:27:43.073Z'
 sourcePath: _posts/2016-08-05-macro-and-reflective-together.md
+author: []
+via: {}
+dateModified: '2016-08-05T18:27:42.835Z'
+title: ''
+publisher: {}
+description: Macro and reflective together!
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
